@@ -1,0 +1,5 @@
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 3 Dec 2022, Yes
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, complete task 26, Follow the instructions given in the task manual to complete this task to a high standard to have it placed on my portfolio, 23 Nov 2022, 2 Dec 2022, No
+tim, be great, do really good things and help society wherever you can, 26 Nov 2022, 5 Dec 2022, Yes
+tim, check add task, write a new task to the file to see if it saves it correctly , 26 Nov 2022, 3 Dec 2022, No
