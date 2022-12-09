@@ -13,14 +13,12 @@ Once Instillation is complete run the program, the program will ask for a userna
 and password, to gain maximum functionality of the program you should 
 log in with credentials (Admin, Adm1n).
 
-<img height="150" src="/Users/reispinnock/Documents/HyperionDev/Lesson 26/tasks.png" width="500"/>
-<img width="290" alt="Login" src="https://user-images.githubusercontent.com/120096370/206767616-f03d8efc-db7c-4e79-a705-259db785a60b.png">
+<img width="150" alt="Login" src="https://user-images.githubusercontent.com/120096370/206767616-f03d8efc-db7c-4e79-a705-259db785a60b.png" width="500">
 
 Once logged in you'll be met with a menu you can navigate to use the programs different
 functionalities.
 
-<img height="200" src="/Users/reispinnock/Documents/HyperionDev/Lesson 26/menu.png" width="300"/>
-<img width="365" alt="menu" src="https://user-images.githubusercontent.com/120096370/206767727-41d36548-903a-4676-a803-e3057ef70794.png">
+<img width="200" alt="menu" src="https://user-images.githubusercontent.com/120096370/206767727-41d36548-903a-4676-a803-e3057ef70794.png" width="300">
 
 ### viewing tasks
 
