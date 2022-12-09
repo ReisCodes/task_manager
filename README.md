@@ -13,7 +13,7 @@ Once Instillation is complete run the program, the program will ask for a userna
 and password, to gain maximum functionality of the program you should 
 log in with credentials (Admin, Adm1n).
 
-<img height="75" src="/Users/reispinnock/Documents/HyperionDev/Lesson 26/Login.png" width="200"/>
+![plot](/Users/reispinnock/Documents/HyperionDev/Lesson 26/Login.png)
 
 Once logged in you'll be met with a menu you can navigate to use the programs different
 functionalities.
