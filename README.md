@@ -13,12 +13,12 @@ Once Instillation is complete run the program, the program will ask for a userna
 and password, to gain maximum functionality of the program you should 
 log in with credentials (Admin, Adm1n).
 
-<img width="150" alt="Login" src="https://user-images.githubusercontent.com/120096370/206767616-f03d8efc-db7c-4e79-a705-259db785a60b.png" width="500">
+<img width="290" alt="Login" src="https://user-images.githubusercontent.com/120096370/206768059-eed03cd5-f734-4268-8059-e0d8b52d0653.png">
 
 Once logged in you'll be met with a menu you can navigate to use the programs different
 functionalities.
 
-<img width="200" alt="menu" src="https://user-images.githubusercontent.com/120096370/206767727-41d36548-903a-4676-a803-e3057ef70794.png" width="300">
+<img width="365" alt="menu" src="https://user-images.githubusercontent.com/120096370/206768193-fd811183-e7bf-4386-b100-980eefef822f.png">
 
 ### viewing tasks
 
